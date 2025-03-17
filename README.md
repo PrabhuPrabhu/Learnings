@@ -1,1 +1,1 @@
-my all Learnings!
+graphics Learnings!

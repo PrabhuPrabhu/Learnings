@@ -1,1 +1,0 @@
-Learning Vulkan is hard but also fun!
