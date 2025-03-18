@@ -1,1 +1,1 @@
-now learning git
+learning git
